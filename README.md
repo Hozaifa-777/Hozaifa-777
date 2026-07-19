@@ -2,13 +2,13 @@
 
 **Machine Learning Intern @ FlyRank** | AI Student @ HITU
 
-I'm a Second-year Artificial Intelligence student building applied machine learning pipelines — currently working on Kaggle competitions and internal ML projects at FlyRank.
+I'm a second-year Artificial Intelligence student building applied machine learning pipelines — currently working on Kaggle competitions and internal ML projects at FlyRank.
 
 ---
 
 ### 🔭 Currently
 - 💼 Machine Learning Intern at **FlyRank**, working on ML training pipelines and model experimentation
-- 🎓 Second-year AI student at **Helwan International Technological University (HITU)**
+- 🎓 second-year AI student at **Helwan International Technological University (HITU)**
 - 🏆 Competing in **Kaggle Playground Series** competitions
 
 ---
@@ -27,7 +27,22 @@ Adaptation of a similar multi-class classification architecture for Google Colab
 ---
 
 ### 🛠️ Tech Stack
-`Python` `LightGBM` `h` `CatBoost` `Scikit-learn` `numpy` `Pandas` `AutoGluon`
+
+**Machine Learning**
+![LightGBM](https://img.shields.io/badge/LightGBM-black?style=flat&logo=lightgbm) ![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=flat) ![CatBoost](https://img.shields.io/badge/CatBoost-yellow?style=flat) ![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![AutoGluon](https://img.shields.io/badge/AutoGluon-orange?style=flat)
+
+**Data & Visualization**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-0C4B33?style=flat)
+
+**Tools & Environment**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Hozaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hozaifa-777&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hozaifa-777&theme=dark&hide_border=true)
 
 ---
 
