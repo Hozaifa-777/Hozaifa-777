@@ -29,7 +29,7 @@ Adaptation of a similar multi-class classification architecture for Google Colab
 ### 🛠️ Tech Stack
 
 **Machine Learning**
-![LightGBM](https://img.shields.io/badge/LightGBM-black?style=flat&logo=lightgbm) ![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=flat) ![CatBoost](https://img.shields.io/badge/CatBoost-yellow?style=flat) ![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![AutoGluon](https://img.shields.io/badge/AutoGluon-orange?style=flat)
+![LightGBM](https://img.shields.io/badge/LightGBM-black?style=flat&logo=lightgbm) ![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=flat) ![CatBoost](https://img.shields.io/badge/CatBoost-yellow?style=flat) ![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![AutoGluon](https://img.shields.io/badge/AutoGluon-orange?style=flat)
 
 **Data & Visualization**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-0C4B33?style=flat)
@@ -39,12 +39,6 @@ Adaptation of a similar multi-class classification architecture for Google Colab
 
 ---
 
-### 📊 GitHub Stats
-
-![Hozaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hozaifa-777&show_icons=true&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Hozaifa-777&theme=dark&hide_border=true)
-
----
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hozaifa-mohamed-708355259)
