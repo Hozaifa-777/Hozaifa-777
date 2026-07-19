@@ -2,13 +2,13 @@
 
 **Machine Learning Intern @ FlyRank** | AI Student @ HITU
 
-I'm a first-year Artificial Intelligence student building applied machine learning pipelines — currently working on Kaggle competitions and internal ML projects at FlyRank.
+I'm a Second-year Artificial Intelligence student building applied machine learning pipelines — currently working on Kaggle competitions and internal ML projects at FlyRank.
 
 ---
 
 ### 🔭 Currently
 - 💼 Machine Learning Intern at **FlyRank**, working on ML training pipelines and model experimentation
-- 🎓 First-year AI student at **Helwan International Technological University (HITU)**
+- 🎓 Second-year AI student at **Helwan International Technological University (HITU)**
 - 🏆 Competing in **Kaggle Playground Series** competitions
 
 ---
@@ -27,7 +27,7 @@ Adaptation of a similar multi-class classification architecture for Google Colab
 ---
 
 ### 🛠️ Tech Stack
-`Python` `LightGBM` `XGBoost` `CatBoost` `Scikit-learn` `PyTorch` `Pandas` `AutoGluon`
+`Python` `LightGBM` `h` `CatBoost` `Scikit-learn` `numpy` `Pandas` `AutoGluon`
 
 ---
 
