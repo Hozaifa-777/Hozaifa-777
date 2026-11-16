@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a second-year **Artificial Intelligence** student at **Helwan International Technological University (HITU)**, interested in machine learning, intelligent systems, and building technology-driven solutions. I enjoy exploring ideas across **AI, data science, software development, and entrepreneurship**.
+I'm a second-year **Artificial Intelligence** student at **Helwan International Technological University (HITU)**, interested in machine learning, intelligent systems, and building technology-driven solutions. I enjoy exploring ideas across **AI, data science, software development**.
 
 ---
 
